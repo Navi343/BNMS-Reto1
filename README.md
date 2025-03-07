@@ -8,4 +8,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 - Eliminar tareas.
 
 ## Tecnologías
-- Java SpringBoot
+- Java SpringBootEsta es la rama develop
